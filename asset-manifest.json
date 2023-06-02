@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/boxOffice-shortIntern/static/js/main.bbef311e.js",
+    "static/js/787.6e354c4d.chunk.js": "/boxOffice-shortIntern/static/js/787.6e354c4d.chunk.js",
+    "service-worker.js": "/boxOffice-shortIntern/service-worker.js",
+    "index.html": "/boxOffice-shortIntern/index.html",
+    "main.bbef311e.js.map": "/boxOffice-shortIntern/static/js/main.bbef311e.js.map",
+    "787.6e354c4d.chunk.js.map": "/boxOffice-shortIntern/static/js/787.6e354c4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bbef311e.js"
+  ]
+}
